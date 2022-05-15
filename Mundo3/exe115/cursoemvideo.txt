@@ -1,0 +1,8 @@
+Antonio;37
+Biatriz;17
+Carlos;21
+Diana;32
+Elias;45
+Fernanda;39
+Gabriel;16
+Hélio;12
